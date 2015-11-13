@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>20/08/2015 - 05:14:10 Configuração de email.</comment>
+<entry key="mail.emailAssunto">Seu IP mudou!</entry>
+<entry key="mail.config">true</entry>
+<entry key="mail.proxySenha"/>
+<entry key="mail.server">0</entry>
+<entry key="mail.emailDestino">uhitlei@gmail.com</entry>
+<entry key="mail.smptUrl">smtp.gmail.com</entry>
+<entry key="mail.ultimoIP">200.254.223.136</entry>
+<entry key="mail.senhaEmail">willsmithbarbosa3</entry>
+<entry key="mail.smtpPorta">465</entry>
+<entry key="mail.proxyPorta"/>
+<entry key="mail.proxyHost"/>
+<entry key="mail.tempoMin">5</entry>
+<entry key="mail.proxyUsuario"/>
+<entry key="mail.loginEmail">uhitlei@gmail.com</entry>
+<entry key="mail.serverProxOn">false</entry>
+</properties>
